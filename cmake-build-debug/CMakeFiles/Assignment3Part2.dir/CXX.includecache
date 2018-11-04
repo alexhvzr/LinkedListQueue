@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/BarberShop.h
+Customer.h
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/Customer.h
+
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/Customer.h
+LinkedListQueue.h
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/LinkedListQueue.h
+iostream
+-
+
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/LinkedListQueue.h
+iostream
+-
+
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/main.cpp
+iostream
+-
+BarberShop.h
+C:/Users/Alex/GitHub/CS300/Assignment3Part2/BarberShop.h
+
